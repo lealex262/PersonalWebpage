@@ -1,0 +1,36 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+.jumbrotron {
+
+}
+#cover {
+    margin-top: 20px;
+    background-image: url(http://www.gradadmiss.gatech.edu/sites/default/files/images/skyline_cropped.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    padding-left: 6px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-linkedin {
+    padding:7px 12px;
+    background-color: rgb(0, 119, 181);
+}
+.glyphicon {
+    font-size: 20px;
+}
+#resume {
+    font-size: 25px;
+}
+#profilepic {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
